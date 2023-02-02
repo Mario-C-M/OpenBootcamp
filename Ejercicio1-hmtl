@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+    <head>
+        <title>"Ejercicio de Introducción a HTML en OpenBootcamp"</title>
+    </head>
+    <body>
+      <!--Aprendiendo a documentar mi código 
+      con OpenBootcamp-->
+        <ul>
+        <li><a href="https://www.youtube.com/watch?v=nspxAG12Cpc">TOOL - Sober</a></li>
+        <li><a href="https://www.youtube.com/watch?v=L-iepu3EtyE">System Of A Down - Aerials</a></li>
+        <li><a href="https://www.youtube.com/watch?v=uAE6Il6OTcs">Alice In Chains - Rooster</a></li>
+        </ul>
+    </body>
+</html>
